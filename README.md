@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nabeel Idrees
-- 👀 I Hold my interests and passion in Artificial Intelligence, Machine Learning, Signal Processing and Robotics.
+- 👀 I hold my interests and passion in Artificial Intelligence, Machine Learning, Signal Processing and Robotics.
 - 🌱 Recent graduate from University of Texas Dallas ...
 -  Connect with me:
 
